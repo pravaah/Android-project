@@ -1,3 +1,4 @@
+
 print("hey,would you like to have fruits")
 x=input()
 if(x=="yes") :
